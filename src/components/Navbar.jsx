@@ -55,7 +55,7 @@ const Navbar = () => {
               onClick={() => setActive(nav.title)}
             >
               {nav.id == "/" ? (
-                <a href="https://www.google.com" target="_blank">
+                <a href="https://collabcodex.vercel.app/" target="_blank">
                   Go to App
                 </a>
               ) : (
@@ -89,7 +89,7 @@ const Navbar = () => {
                   }}
                 >
                   {nav.id == "/" ? (
-                    <a href="https://www.google.com" target="_blank">
+                    <a href="https://collabcodex.vercel.app/" target="_blank">
                       Go to App
                     </a>
                   ) : (
