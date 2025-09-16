@@ -89,7 +89,7 @@ Found a bug or have a killer feature idea? Contributions are welcome and greatly
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See the [LICENCE](https://github.com/harsh-pandhe/HomePageCCE) file for more details.
+This project is licensed under the **MIT License**. See the [LICENCE](LICENSE) file for more details.
 
 -----
 
