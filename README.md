@@ -98,7 +98,7 @@ This project is licensed under the **MIT License**. See the [LICENCE](LICENSE) f
 Have questions, feedback, or just want to say hi? The best way is to open an issue on GitHub.
 
   - **Project Link:** [https://github.com/harsh-pandhe/HomePageCCE](https://github.com/harsh-pandhe/HomePageCCE)
-  - **Report a Bug:** [Create an Issue](https://www.google.com/search?q=https://github.com/harsh-pandhe/HomePageCCE/issues)
+  - **Report a Bug:** [Create an Issue](https://github.com/harsh-pandhe/HomePageCCE/issues)
 
 -----
 
